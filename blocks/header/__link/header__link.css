@@ -1,0 +1,11 @@
+.header__link{ 
+    text-decoration: none; 
+    color: #2f80ed; 
+}
+.header__link:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    text-decoration: underline;
+    animation: opacity linear 1s;
+}

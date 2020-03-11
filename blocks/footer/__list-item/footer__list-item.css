@@ -1,0 +1,21 @@
+.footer__list-item{ 
+    list-style: none; 
+    font-weight: normal; 
+    font-size: 18px; 
+    line-height: 30px; 
+}
+.footer__list-item a{ 
+    text-decoration: none; 
+    color: white; 
+    text-transform: none; 
+    list-style: none; 
+    margin-left: 0; 
+    padding-left: 0; 
+}
+.footer__list-item:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    text-decoration: underline;
+    animation: opacity linear 1s;
+}
