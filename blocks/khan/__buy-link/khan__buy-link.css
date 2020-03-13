@@ -4,8 +4,7 @@
     font-weight: normal;
     text-decoration: none;
     color: #2f80ed;
-    top: 0;
-    position: absolute;
+    align-self: start;
 }
 .khan__buy-link:hover{
     text-decoration: underline;
