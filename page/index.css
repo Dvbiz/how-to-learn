@@ -2,6 +2,7 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/two-columns/two-columns.css);
@@ -17,7 +18,3 @@
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/footer/footer.css);
-.body{
-    margin: 0;
-    padding: 0;
-}
